@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+  width: 5px;
+  background-color: #04152d;
+}
+
+::-webkit-scrollbar-track{
+  border-radius: 10px;
+  background-color: #072550;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0a3269; 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track-piece{
+  background-color: transparent;
+}

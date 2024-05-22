@@ -1,0 +1,34 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/c-sharp.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

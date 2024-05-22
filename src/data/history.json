@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Desenvolvedor full-stack",
+    "organisation": "Iatrix",
+    "startDate": "Fev, 2024",
+    "endDate": "Atualmente",
+    "experiences": ["Criação de interface e APIs", "Desenvolvimento de processos"],
+    "imageSrc": "history/iatrix.png"
+  },
+  {
+    "role": "Desenvolvedor full-stack",
+    "organisation": "GP Audax",
+    "startDate": "Maio, 2022",
+    "endDate": "Atualmente",
+    "experiences": ["Desenvolvimento de APIs .NET", "Desenvolvimento de interface"],
+    "imageSrc": "history/Audax.png"
+  },
+  {
+    "role": "Estagiário de Tecnologia",
+    "organisation": "Pradolux",
+    "startDate": "Nov, 2021",
+    "endDate": "Maio, 2022",
+    "experiences": [
+      "Configuração de servidores Linux",
+      "Suporte direto ao usuário"
+    ],
+    "imageSrc": "history/pradolux.png"
+  }
+]
