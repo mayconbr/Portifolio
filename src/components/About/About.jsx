@@ -37,7 +37,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img className={styles.aboutIcon} src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI/UX Designer</h3>
+              <h3>UI/UX</h3>
               <p>
               Meu principal objetivo é criar interfaces intuitivas que facilitem a 
               interação do usuário com o produto, tornando-o eficiente e satisfatório de usar.

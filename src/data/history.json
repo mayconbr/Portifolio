@@ -9,14 +9,14 @@
   },
   {
     "role": "Desenvolvedor full-stack",
-    "organisation": "GP Audax",
+    "organisation": "Audax",
     "startDate": "Maio, 2022",
     "endDate": "Atualmente",
     "experiences": ["Desenvolvimento de APIs .NET", "Desenvolvimento de interface"],
     "imageSrc": "history/Audax.png"
   },
   {
-    "role": "Estagiário de Tecnologia",
+    "role": "Estagiário tech",
     "organisation": "Pradolux",
     "startDate": "Nov, 2021",
     "endDate": "Maio, 2022",

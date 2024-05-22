@@ -117,4 +117,22 @@
     width: 100%;
     gap: 9px;
   }
+
+  .historyItem{
+    flex-direction: column; 
+  }
+
+  .historyItemDetails ul {
+    margin-left: -6px;
+  }
+
+  .historyItemDetails p {
+    margin-left: -5px;
+  }
+
+  .historyItemDetails h3 {
+    font-weight: 700;
+    font-size: 17px;
+    margin-left: -5px;
+  }
 }
