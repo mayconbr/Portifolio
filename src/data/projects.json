@@ -4,23 +4,31 @@
     "imageSrc": "projects/crm.png",
     "description": "Projeto construido utilizando HTML, CSS e JS com uma API em .NET",
     "skills": ["HTML", "CSS", "JS", "JQuery", "C#"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://crm.gpaudax.com.br/",
+    "source": "https://www.github.com/"
   },
   {
     "title": "Fiado Garantido",
     "imageSrc": "projects/fiado.png",
     "description": "Sistema de solcitações de credito por meio de uma API .NET Core",
     "skills": ["HTML", "CSS", "JS", "JQuery", "C#"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://fiadogarantido.gpaudax.com.br/",
+    "source": "https://www.github.com/mayconbr"
   },
   {
     "title": "CodeBar",
     "imageSrc": "projects/esto.png",
     "description": "API p/ leitura de codebars, com HTML, Bootstrap, JS, JQuery e C#.",
     "skills": ["HTML", "Bootstrap","JS","JQuery", "C#"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://code-bar-seven.vercel.app/",
+    "source": "https://github.com/mayconbr/CodeBar"
+  },
+  {
+    "title": "Pokedex",
+    "imageSrc": "projects/pokedex.png",
+    "description": "Pokédex que consome uma API e filtra resultados usando vários endpoints",
+    "skills": ["HTML", "CSS","JavaScript"],
+    "demo": "https://pokedex-coral-omega.vercel.app/",
+    "source": "https://github.com/mayconbr/pokedex"
   }
 ]

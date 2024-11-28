@@ -1,8 +1,47 @@
-# React + Vite
+# Portfólio Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao repositório do **Portfólio Pessoal**! Este projeto é uma aplicação web desenvolvida com React e Vite para apresentar informações profissionais, projetos e habilidades. Abaixo, você encontrará as principais informações e instruções para uso.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tecnologias Utilizadas
+
+| **Tecnologia**                  | **Descrição**                           |
+|----------------------------------|-----------------------------------------|
+| React                            | Biblioteca para criação de interfaces   |
+| Vite                             | Ferramenta para build e desenvolvimento |
+| JavaScript (ES6+)                | Linguagem de programação principal      |
+| Sass                             | Pré-processador CSS                     |
+| Bootstrap                        | Framework para estilização              |
+
+---
+
+## 📖 Estrutura do Projeto
+
+- **src/**: Diretório principal do código-fonte.
+  - **components/**: Componentes reutilizáveis da interface.
+  - **pages/**: Páginas principais do portfólio (sobre, projetos, contato).
+  - **styles/**: Estilos globais e específicos (Sass).
+- **public/**: Arquivos estáticos (imagens, fontes, etc.).
+- **package.json**: Dependências e scripts do projeto.
+- **vite.config.js**: Configurações do Vite.
+
+---
+
+## 🌟 Funcionalidades
+
+- Exibição de informações pessoais e habilidades.
+- Listagem de projetos com detalhes.
+- Formulário de contato funcional.
+- Design responsivo e moderno.
+
+---
+
+## 🚀 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/portifolio.git
+   cd portifolio
+   npm install
+   npm run dev

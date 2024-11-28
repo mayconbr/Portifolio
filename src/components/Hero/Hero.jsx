@@ -9,8 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Olá, sou o Maycon</h1>
         <p className={styles.description}>
-        Sou desenvolvedor Full-stack com mais de 3 anos de experiência em C# e .NET. Aqui você encontra um pouco mais sobre o meu trabalho.
-        Entre em contato se quiser saber mais!
+        Sou desenvolvedor Full-stack com mais de 3 anos de experiência em C# e .NET. 
+        Além disso, tenho conhecimento em outras tecnologias, como React, JavaScript e Sass. 
+        Aqui você encontra um pouco mais sobre o meu trabalho. Entre em contato se quiser saber mais!
         </p>
         <a href="mailto:mbruzolato@gmail.com" className={styles.contactBtn}>
           Contato
