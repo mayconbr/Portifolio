@@ -1,6 +1,6 @@
 # Portfólio Pessoal
 
-Bem-vindo ao repositório do **Portfólio Pessoal**! Este projeto é uma aplicação web desenvolvida com React e Vite para apresentar informações profissionais, projetos e habilidades. Abaixo, você encontrará as principais informações e instruções para uso.
+Bem-vindo ao repositório do **MEU PORTIFOLIO**! Este projeto é uma aplicação web desenvolvida com React e Vite para apresentar informações profissionais, projetos e habilidades. Abaixo, você encontrará as principais informações e instruções para uso.
 
 ---
 
