@@ -6,22 +6,19 @@ Bem-vindo ao repositório do **Portfólio Pessoal**! Este projeto é uma aplica�
 
 ## 🛠 Tecnologias Utilizadas
 
-| **Tecnologia**                  | **Descrição**                           |
+| **Tecnologia**                   | **Descrição**                           |
 |----------------------------------|-----------------------------------------|
 | React                            | Biblioteca para criação de interfaces   |
 | Vite                             | Ferramenta para build e desenvolvimento |
-| JavaScript (ES6+)                | Linguagem de programação principal      |
-| Sass                             | Pré-processador CSS                     |
-| Bootstrap                        | Framework para estilização              |
+| JavaScript                       | Linguagem de programação principal      |
 
 ---
 
 ## 📖 Estrutura do Projeto
 
 - **src/**: Diretório principal do código-fonte.
-  - **components/**: Componentes reutilizáveis da interface.
-  - **pages/**: Páginas principais do portfólio (sobre, projetos, contato).
-  - **styles/**: Estilos globais e específicos (Sass).
+- **components/**: Componentes reutilizáveis da interface.
+- **pages/**: Páginas principais do portfólio (sobre, projetos, contato).
 - **public/**: Arquivos estáticos (imagens, fontes, etc.).
 - **package.json**: Dependências e scripts do projeto.
 - **vite.config.js**: Configurações do Vite.
