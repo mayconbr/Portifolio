@@ -20,7 +20,7 @@
     "imageSrc": "projects/esto.png",
     "description": "API p/ leitura de codebars, com HTML, Bootstrap, JS, JQuery e C#.",
     "skills": ["HTML", "Bootstrap","JS","JQuery", "C#"],
-    "demo": "https://code-bar-seven.vercel.app/",
+    "demo": "https://estoque20241128105244.azurewebsites.net/",
     "source": "https://github.com/mayconbr/CodeBar"
   },
   {
