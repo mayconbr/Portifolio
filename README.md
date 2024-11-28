@@ -29,7 +29,6 @@ Bem-vindo ao repositório do **MEU PORTIFOLIO**! Este projeto é uma aplicação
 
 - Exibição de informações pessoais e habilidades.
 - Listagem de projetos com detalhes.
-- Formulário de contato funcional.
 - Design responsivo e moderno.
 
 ---
