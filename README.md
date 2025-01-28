@@ -20,7 +20,6 @@ Bem-vindo ao repositório do **MEU PORTIFOLIO**! Este projeto é uma aplicação
 - **components/**: Componentes reutilizáveis da interface.
 - **pages/**: Páginas principais do portfólio (sobre, projetos, contato).
 - **public/**: Arquivos estáticos (imagens, fontes, etc.).
-- **package.json**: Dependências e scripts do projeto.
 - **vite.config.js**: Configurações do Vite.
 
 ---
