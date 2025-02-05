@@ -34,7 +34,7 @@ Bem-vindo ao repositório do **MEU PORTIFOLIO**! Este projeto é uma aplicação
 
 ## 🚀 Como Executar
 
-1. Clone este repositório:
+Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/portifolio.git
    cd portifolio
